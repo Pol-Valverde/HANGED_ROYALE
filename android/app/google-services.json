@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182803889506",
+    "project_id": "hanged-royale-919c9",
+    "storage_bucket": "hanged-royale-919c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182803889506:android:36b7d5f9e64bb7d598003b",
+        "android_client_info": {
+          "package_name": "com.example.ahorcado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182803889506-isdi4ujegf5rapars7d83f23c2r6mpe6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpPc6UZLfnwA9qfUDD6xHwGJOzlNUEoI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182803889506-isdi4ujegf5rapars7d83f23c2r6mpe6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
